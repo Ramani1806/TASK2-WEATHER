@@ -30,5 +30,4 @@ Create an index.html, styles.css, and app.js file.
 
 3. HTML Structure (index.html):
 
-
 ![Screenshot 2024-09-28 103010](https://github.com/user-attachments/assets/14085152-b03a-4f9d-ad95-be3b446d1025)
