@@ -1,33 +1,16 @@
-# TASK2-WEATHER
 
-Project Outline:
+Instructions:
 
-1. Setup the Environment: Use basic HTML, CSS, and JavaScript.
+1. Replace API Key:
 
-
-2. API Integration: Use a weather API like OpenWeatherMap to fetch weather data.
+Replace 'YOUR_API_KEY' in the JavaScript section with your actual OpenWeatherMap API key.
 
 
-3. Display Current Weather: Show current weather conditions such as temperature, humidity, wind speed, etc.
 
+2. Run the Application:
 
-4. Weather Forecast: Display a 5-day weather forecast.
+Save the file with a .html extension (e.g., weather-dashboard.html).
 
+Open the file in your browser.
 
-5. Weather Icons: Fetch and display weather icons from the API.
-
-Steps to Build the Dashboard:
-
-1. Create an Account on OpenWeatherMap:
-
-Sign up on OpenWeatherMap to get an API key.
-
-Use the current weather data and 5-day forecast APIs.
-
-2. Set Up the Project Files:
-
-Create an index.html, styles.css, and app.js file.
-
-3. HTML Structure (index.html):
-
-
+![Screenshot 2024-10-11 102908](https://github.com/user-attachments/assets/22993775-a2cd-4ac7-9e6b-e12c74a58d57)
